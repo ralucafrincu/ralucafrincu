@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Raluca (Ralu)</h1>
 <h3 align="center">Web Development student building clean, scalable web applications</h3>
- 
+
 - 🔭 Currently building with **React**, **TypeScript**, **Strapi v5**, and **Vite** on data-driven portal projects
 - 🎨 Comfortable moving between UI/UX design and implementation — from **Figma** & **ProtoPie** prototypes to working code
 - 🌱 Exploring **Flutter**, **NestJS**, and enterprise CMS platforms like **Joomla**
@@ -8,8 +8,10 @@
 - 🚀 Featured work: mobile-first tour guides, role-based CMS portals, and cross-platform apps built with real companies and clients
 - 🎯 Seeking a **Winter Semester 2026** internship (Oct 2026 – Mar 2027) in frontend, full-stack, or software development
 - 📫 Reach me at **frincu.raluca0501@gmail.com**
+
 <br>
-### Connect with me:
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/raluca-ioana-frincu" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -18,7 +20,8 @@
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 </p>
-### Languages and Tools:
+
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -32,18 +35,21 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
+
 <br>
-### 📌 Featured Projects
- 
+
+<h3 align="left">📌 Featured Projects</h3>
+
 | Project | Stack | Highlights |
 |---|---|---|
 | **[Mittweida City Explorer](https://github.com/ralucafrincu/mittweida-app)** | React, JavaScript, NestJS | Full-stack, mobile-first tour guide built in partnership with the City of Mittweida — geolocation, dynamic routing, photo upload & storage |
 | **SRH University Portal** | Joomla, Strapi v5, React, TypeScript, Vite | Two implementations of a university portal (clubs, events, locations, news) with a role-based permission system for Ambassadors & Students |
 | **[COCO — Social Media Content Scheduler](https://github.com/ralucafrincu/coco.one-app)** | Flutter, Dart | Cross-platform app built in collaboration with coco.one to help small businesses manage social media |
 | **[DeutschGenie — Marketing Landing Page](https://github.com/ralucafrincu/DeutschGenie)** | React, CSS, SEO | SEO-first marketing landing page built with a linguistic expert — semantic HTML5, Open Graph metadata, Lighthouse-optimised |
- 
+
 <br>
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ralucafrincu&show_icons=true&theme=default" alt="Ralu's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=ralucafrincu&show_icons=true&theme=default&hide_border=true" alt="Ralu's GitHub Stats" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ralucafrincu&theme=default&hide_border=true" alt="Ralu's GitHub Streak" height="165" />
 </p>
- 
