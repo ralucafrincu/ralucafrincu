@@ -48,8 +48,3 @@
 | **[DeutschGenie — Marketing Landing Page](https://github.com/ralucafrincu/DeutschGenie)** | React, CSS, SEO | SEO-first marketing landing page built with a linguistic expert — semantic HTML5, Open Graph metadata, Lighthouse-optimised |
 
 <br>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ralucafrincu&show_icons=true&theme=default&hide_border=true" alt="Ralu's GitHub Stats" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ralucafrincu&theme=default&hide_border=true" alt="Ralu's GitHub Streak" height="165" />
-</p>
