@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Raluca (Ralu)</h1>
+<h1 align="center">Hi there 👋, I'm Raluca</h1>
 <h3 align="center">Web Development student building clean, scalable web applications</h3>
 
 - 🔭 Currently building with **React**, **TypeScript**, and **JavaScript**
