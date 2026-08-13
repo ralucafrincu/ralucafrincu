@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Raluca (Ralu)</h1>
 <h3 align="center">Web Development student building clean, scalable web applications</h3>
 
-- 🔭 Currently building with **React**, **TypeScript**, **Strapi v5**, and **Vite** on data-driven portal projects
+- 🔭 Currently building with **React**, **TypeScript**, and **JavaScript**
 - 🎨 Comfortable moving between UI/UX design and implementation — from **Figma** & **ProtoPie** prototypes to working code
-- 🌱 Exploring **Flutter**, **NestJS**, and enterprise CMS platforms like **Joomla**
+- 🌱 Exploring **Flutter**, **NestJS**, and enterprise CMS platforms like **Joomla** and **Strapi v5**
 - 💬 Happy to chat about **React**, **TypeScript**, or clean frontend architecture
 - 🚀 Featured work: mobile-first tour guides, role-based CMS portals, and cross-platform apps built with real companies and clients
 - 🎯 Seeking a **Winter Semester 2026** internship (Oct 2026 – Mar 2027) in frontend, full-stack, or software development
