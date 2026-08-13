@@ -4,8 +4,6 @@
 - 🔭 Currently building with **React**, **TypeScript**, and **JavaScript**
 - 🎨 Comfortable moving between UI/UX design and implementation — from **Figma** & **ProtoPie** prototypes to working code
 - 🌱 Exploring **Flutter**, **NestJS**, and CMS platforms like **Joomla** and **Strapi v5**
-- 💬 Happy to chat about **React**, **TypeScript**, or clean frontend architecture
-- 🚀 Featured work: mobile-first tour guides, role-based CMS portals, and cross-platform apps built with real companies and clients
 - 🎯 Seeking a **Winter Semester 2026** internship (Oct 2026 – Mar 2027) in frontend, full-stack, or software development
 - 📫 Reach me at **frincu.raluca0501@gmail.com**
 
